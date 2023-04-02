@@ -1,2 +1,4 @@
 # ali
-Logo and thumbnails disigning 
+Hello 
+Buddies
+
